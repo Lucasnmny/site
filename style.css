@@ -5,4 +5,25 @@ body{
   beckgraund-attachment: fixed
   beckgraund-position: cenetr center ;
   color :black ;
-  font-family:; BlackFlag
+  font-family:; BlueFlag
+  text - aling :center 
+  margin: 0
+  padding: 0;
+}
+
+
+#content{
+    beckgraund - color : rgba
+   padding: 20 px;
+}
+
+h1 { 
+  font - size : 36 px ;
+  margem - top : 20 px ;
+}
+
+p {
+  font- size:20 px 
+  max- width : 600 px ;
+  margin: 20 px 0 ;
+  
