@@ -1,3 +1,4 @@
 <!DOCTYPE html>informar ao navegador qual é a versão do HTML utilizada no arquivo
 <html> Define o significado e a estrutura do conteúdo da web
 <head >  CABESALHO 
+<meta>  servem como um norte para ações e decisões, definindo algo claro e quantificável a ser alcançad
